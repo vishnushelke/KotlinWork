@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0e2abf8-7f8b-4feb-bad1-ed70fdc95961" name="Default Changelist" comment="" />
+    <list default="true" id="b0e2abf8-7f8b-4feb-bad1-ed70fdc95961" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/AnagramDetection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/PrimeAnagramsUpto1000.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/algorithm/PrimeNumbersUpto1000.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/CoupenNumberKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/DistanceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/FactorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/FlipCoinKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/GamblerKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/HarmonicNumberKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/LeapYearKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/META-INF/kotlinwork.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinwork/META-INF/kotlinwork.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/PowerOf2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlinwork/Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/QuadraticKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/StopwatchKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/StringPermutationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/StringReplaceKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/SumOf3Integer0Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/WindChillKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlinwork/_2DArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +40,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UZ4GvwSSu17EezVtXLcVSOm46h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,11 +52,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/bridgelabz/functional" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.com.bridgelabz.algorithm.AnagramDetectionKt">
     <configuration name="HelloKt" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="kotlinwork" />
       <option name="VM_PARAMETERS" />
@@ -42,14 +76,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bridgelabz.functional.DistanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="com.bridgelabz.algorithm.AnagramDetectionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinwork" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.functional.DistanceKt" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithm.AnagramDetectionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.algorithm.PrimeAnagramsUpto1000Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinwork" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithm.PrimeAnagramsUpto1000Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.algorithm.PrimeNumbersUpto1000Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinwork" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.algorithm.PrimeNumbersUpto1000Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,32 +123,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.functional.QuadraticKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bridgelabz.functional.StopwatchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlinwork" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.functional.StopwatchKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.bridgelabz.functional.StringPermutationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlinwork" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.functional.StringPermutationKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.bridgelabz.algorithm.AnagramDetectionKt" />
+        <item itemvalue="Kotlin.com.bridgelabz.algorithm.PrimeAnagramsUpto1000Kt" />
+        <item itemvalue="Kotlin.com.bridgelabz.algorithm.PrimeNumbersUpto1000Kt" />
         <item itemvalue="Kotlin.com.bridgelabz.functional.WindChillKt" />
         <item itemvalue="Kotlin.com.bridgelabz.functional.QuadraticKt" />
-        <item itemvalue="Kotlin.com.bridgelabz.functional.StopwatchKt" />
-        <item itemvalue="Kotlin.com.bridgelabz.functional.StringPermutationKt" />
-        <item itemvalue="Kotlin.com.bridgelabz.functional.DistanceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,22 +189,38 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="448" y="183" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/67.27.1299.741@67.27.1299.741" timestamp="1575551417483" />
-    <state width="1253" height="172" key="GridCell.Tab.0.bottom" timestamp="1575626388245">
+    <state width="1253" height="215" key="GridCell.Tab.0.bottom" timestamp="1575641157730">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="172" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575626388245" />
-    <state width="1253" height="172" key="GridCell.Tab.0.center" timestamp="1575626388244">
+    <state width="1253" height="215" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575641157730" />
+    <state width="1253" height="215" key="GridCell.Tab.0.center" timestamp="1575641157727">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="172" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575626388244" />
-    <state width="1253" height="172" key="GridCell.Tab.0.left" timestamp="1575626388244">
+    <state width="1253" height="215" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1575641157727" />
+    <state width="1253" height="215" key="GridCell.Tab.0.left" timestamp="1575641157727">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="172" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575626388244" />
-    <state width="1253" height="172" key="GridCell.Tab.0.right" timestamp="1575626388245">
+    <state width="1253" height="215" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1575641157727" />
+    <state width="1253" height="215" key="GridCell.Tab.0.right" timestamp="1575641157729">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="172" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575626388245" />
+    <state width="1253" height="215" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1575641157729" />
+    <state width="1253" height="215" key="GridCell.Tab.1.bottom" timestamp="1575641157739">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="215" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1575641157739" />
+    <state width="1253" height="215" key="GridCell.Tab.1.center" timestamp="1575641157738">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="215" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1575641157738" />
+    <state width="1253" height="215" key="GridCell.Tab.1.left" timestamp="1575641157730">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="215" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1575641157730" />
+    <state width="1253" height="215" key="GridCell.Tab.1.right" timestamp="1575641157738">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="215" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1575641157738" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1575605889524">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
