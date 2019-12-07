@@ -1,0 +1,62 @@
+{
+  "rices":[
+    {
+      "name":"basmati",
+      "weight": 15,
+      "price": 200,
+      "totalValue":0
+    },
+    {
+      "name":"kolam",
+      "weight": 40,
+      "price": 50,
+      "totalValue":0
+    },
+    {
+      "name":"Indrayani",
+      "weight": 45,
+      "price": 60,
+      "totalValue":0
+    }
+  ],
+  "wheats":[
+    {
+      "name":"wheat1",
+      "weight": 77,
+      "price": 40
+    },
+    {
+      "name":"wheat2",
+      "weight": 30,
+      "price": 45,
+      "totalValue":0
+    },
+    {
+      "name":"wheat3",
+      "weight": 50,
+      "price": 30,
+      "totalValue":0
+    }
+
+  ],
+  "pulses":[
+    {
+      "name":"soya",
+      "weight": 60,
+      "price": 80,
+      "totalValue":0
+    },
+    {
+      "name":"nuts",
+      "weight": 70,
+      "price": 90,
+      "totalValue":0
+    },
+    {
+      "name":"tur",
+      "weight": 60,
+      "price": 100,
+      "totalValue":0
+    }
+  ]
+}
