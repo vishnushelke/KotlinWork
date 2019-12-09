@@ -26,13 +26,19 @@ fun main(args:Array<String>){
         var choice = scan.nextInt()
         when(choice) {
             1 -> {
-               printRices(rices)
+                if (rices != null) {
+                    printRices(rices)
+                }
             }
             2 -> {
-                printWheats(wheats)
+                if (wheats != null) {
+                    printWheats(wheats)
+                }
             }
             3->{
-                printWheats(wheats)
+                if (wheats != null) {
+                    printWheats(wheats)
+                }
             }
             4->exit=true
             

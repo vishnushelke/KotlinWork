@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "symbol": 1,
+      "name": "vishnu",
+      "availableshares": 0,
+      "rupeesavailable": 50
+    },
+    {
+      "symbol": 2,
+      "name": "rishi",
+      "availableshares": 0,
+      "rupeesavailable": 1000
+    },
+    {
+      "symbol": 3,
+      "name": "abhishek",
+      "availableshares": 0,
+      "rupeesavailable": 200000
+    }
+  ]
+}
